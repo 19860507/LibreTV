@@ -109,6 +109,22 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
+    ikun: {
+        api: 'https://155api.com/api.php/provide/vod',
+        name: '155资源'
+    },
+    ikun: {
+        api: 'https://api.souavzy.vip/api.php/provide/vod',
+        name: 'souav资源'
+    },
+    ikun: {
+        api: 'https://api.bwzym3u8.com/api.php/provide/vod',
+        name: '百万资源'
+    },
+    ikun: {
+        api: 'https://www.ckzy1.com/api.php/provide/vod',
+        name: 'CK资源'
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
